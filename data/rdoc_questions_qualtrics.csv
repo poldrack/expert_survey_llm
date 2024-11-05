@@ -1,0 +1,158 @@
+Task Name,Instructions,Explanation,Measure 1,Measure 2,Measure 3,Measure 4,Opinion,Constructs
+Instructions,"""In this survey, we will present you with one or more measures of cognitive paradigms in which we would consider you an expert based on your responses. We would like you to identify the latent cognitive constructs that each one measures. For each measure, we offer the following 13 possible responses: The first 10 responses are cognitive constructs taken from the “cognitive systems” domain of the National Institute of Mental Health (NIMH) Research Domain Criteria (RDoC). Putative ""subconstructs"" are listed under the heading of parent constructs (e.g., the “limited capacity” subconstruct is listed under “working memory”).
+
+Each task includes multiple measurements or conditions; you may choose one or more than one construct for each one. If you believe that a measure does not map onto any of the constructs, you should select ""none of the constructs."" If you believe that a measure maps best onto a construct that is not provided on this list, you should select ""The construct or constructs that I believe best map onto this measure are not listed above."" (You may supplement this response with the ""free answer"" option.)
+
+Many measures (e.g., the flanker effect) can be quantified in terms of reaction time, error rate, or both. We do not distinguish between these, and you can think of such measures as a performance metric in reaction time, error rate, or both.
+
+Feel free to move around between questions to refer to your previous responses. If you have some feedback about the survey, please use the free answer option let us know.""",n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Span task,n/a,"The subject is presented sequentially with a list of stimuli (e.g., a list of letters), and then is instructed to recall the list of stimuli. The number of stimuli is titrated up or down to increase or decrease load. The main dependent variable is the maximum number of stimuli that can be remembered, which is called the simple span. On some blocks of trials, the sequence of to-be-remembered stimuli is interleaved with an operation like a lexical decision (judge whether a string of letters is a word or not). In this operation span condition, the main dependent variable is the maximum number of stimuli that can be remembered while interleaving an operation, which is called the operation span.",Simple Span,Operation Span - Simple Span,n/a,n/a,Do you have any comments on the measures and constructs for this task?,"[
+    ""Attention"",
+    ""Goal Selection"",
+    ""Updating, Representation, and Maintenance"",
+    ""Response Selection"",
+    ""Inhibition/Suppression"",
+    ""Performance Monitoring"",
+    ""Active Maintenance"",
+    ""Flexible Updating"",
+    ""Limited Capacity"",
+    ""Interference Control"",
+    ""None of the constructs"",
+    ""The construct or constructs that I believe best map onto this measure are not listed above"",
+    ""I do not understand the measure or I'm not familiar with this measure""
+]"
+Spatial (Posner) Cueing task,n/a,"In this task, subjects see a cue, then a central fixation that is flanked horizontally by two possible target locations. There are three types of trials defined by the location of the cue: valid, invalid, and neutral trials. In valid trials, the cue matches the subsequent location of the target. In invalid trials, the cue is opposite from the subsequent location of the target. In neutral trials, there is no cue for the location of the upcoming target.",Valid - Neutral,Invalid - Neutral,"Neutral (i.e., what constructs are engaged in the absence of location specific cue)",Post-error slowing,Do you have any comments on the measures and constructs for this task?,"[
+    ""Attention"",
+    ""Goal Selection"",
+    ""Updating, Representation, and Maintenance"",
+    ""Response Selection"",
+    ""Inhibition/Suppression"",
+    ""Performance Monitoring"",
+    ""Active Maintenance"",
+    ""Flexible Updating"",
+    ""Limited Capacity"",
+    ""Interference Control"",
+    ""None of the constructs"",
+    ""The construct or constructs that I believe best map onto this measure are not listed above"",
+    ""I do not understand the measure or I'm not familiar with this measure""
+]"
+Task Switching,n/a,"A task switching task involves a cue (e.g., word such as “magnitude”, ) followed by a target (e.g., a number between 1-9 excluding 5). Subjects respond to this target based upon the specific cue, which can change between trials. There can be multiple cues for the same task (e.g., ""magnitude"" and ""high/low""), allowing one to distinguish cue switch costs from task switch costs. Cue switch cost is the performance decrement when the cue switches but the task remains the same (e.g., ""magnitude"" then ""high-low"") compared to when the cue is exactly the same (e.g., ""magnitude""). Task switch cost is the performance decrement when the task changes (e.g., ""high-low"" and then ""odd-even"") compared to when the cue switches but the task remains the same (e.g., ""magnitude"" then ""high-low"").",Cue Switch Cost,Task Switch Cost,"Cue Stay Task Stay Trials (i.e., what constructs are engaged on trials in which neither the cue nor the task switches)",Post-error slowing,Do you have any comments on the measures and constructs for this task?,"[
+    ""Attention"",
+    ""Goal Selection"",
+    ""Updating, Representation, and Maintenance"",
+    ""Response Selection"",
+    ""Inhibition/Suppression"",
+    ""Performance Monitoring"",
+    ""Active Maintenance"",
+    ""Flexible Updating"",
+    ""Limited Capacity"",
+    ""Interference Control"",
+    ""None of the constructs"",
+    ""The construct or constructs that I believe best map onto this measure are not listed above"",
+    ""I do not understand the measure or I'm not familiar with this measure""
+]"
+Visual Search,n/a,"The visual search task involves identifying a specific target (e.g., a letter T) amidst a number of distractors (e.g., multiple letters L). Performance is primarily measured by the reaction time and accuracy to identify the target. Targets can be presented amongst many or few distractors. When only one feature differentiates targets from distractors (e.g., the only red stimulus in the display is the target), we call this a feature search. When participants must consider at least two features (e.g., find a red X in an array of blue X’s and red T’s), we call this a conjunction search.",Conjunction - Feature search ,High - Low distractor load during conjunction search,"Feature search (i.e., what constructs are engaged on feature search trials)",Post-error slowing,Do you have any comments on the measures and constructs for this task?,"[
+    ""Attention"",
+    ""Goal Selection"",
+    ""Updating, Representation, and Maintenance"",
+    ""Response Selection"",
+    ""Inhibition/Suppression"",
+    ""Performance Monitoring"",
+    ""Active Maintenance"",
+    ""Flexible Updating"",
+    ""Limited Capacity"",
+    ""Interference Control"",
+    ""None of the constructs"",
+    ""The construct or constructs that I believe best map onto this measure are not listed above"",
+    ""I do not understand the measure or I'm not familiar with this measure""
+]"
+AX-CPT / Dot Pattern Expectancy (DPX),n/a,"The AX-CPT task involves viewing a stream of letter stimuli, and subjects make one response if an A precedes an X, and make a different response to any other pair of sequential letters. Compared to a fully randomized design, A’s and X’s usually have a higher probability of occurrence. An example breakdown of pairs of trials could be: 40% of all pairs are AX, 20% are A’s not followed by X (AY), 20% are non-A’s followed by X (BX), and 20% are non-A followed by non-X pairs (BY). In addition to presenting series of letters, another way to implement the AX-CPT task is with different dot patterns that correspond with the different conditions (A, X, Y, and B). This implementation is called the dot pattern expectancy task (DPX).",BX-BY,AY-BY,"BY (i.e., what constructs are engaged on BY trials)",Post-error slowing,Do you have any comments on the measures and constructs for this task?,"[
+    ""Attention"",
+    ""Goal Selection"",
+    ""Updating, Representation, and Maintenance"",
+    ""Response Selection"",
+    ""Inhibition/Suppression"",
+    ""Performance Monitoring"",
+    ""Active Maintenance"",
+    ""Flexible Updating"",
+    ""Limited Capacity"",
+    ""Interference Control"",
+    ""None of the constructs"",
+    ""The construct or constructs that I believe best map onto this measure are not listed above"",
+    ""I do not understand the measure or I'm not familiar with this measure""
+]"
+Flanker,n/a,"In the flanker task, participants focus on a central letter (either F or H) flanked horizontally by four letters (all Fs or all Hs), two on each side. Subjects make one response if the center letter is F and a different response if the center letter is H. The flanking letters sometimes match (congruent) or mismatch (incongruent) the central letter.",Incongruent-congruent,Congruency sequence effect (the tendency for congruency effects to be smaller following incongruent compared to congruent trials),"Congruent (i.e., what constructs are engaged when the flankers are congruent)",Post-error slowing,Do you have any comments on the measures and constructs for this task?,"[
+    ""Attention"",
+    ""Goal Selection"",
+    ""Updating, Representation, and Maintenance"",
+    ""Response Selection"",
+    ""Inhibition/Suppression"",
+    ""Performance Monitoring"",
+    ""Active Maintenance"",
+    ""Flexible Updating"",
+    ""Limited Capacity"",
+    ""Interference Control"",
+    ""None of the constructs"",
+    ""The construct or constructs that I believe best map onto this measure are not listed above"",
+    ""I do not understand the measure or I'm not familiar with this measure""
+]"
+Stroop,n/a,"In the Stroop task, subjects see a series of color words (e.g., ""blue"") presented in different colors (e.g., green). Subjects ignore the word and respond corresponding to the color (e.g., 1 to blue, 2 to green, 3 to red). Trials can be incongruent (e.g., ""green"" in blue ink) or congruent (e.g., ""blue"" in blue ink).",Incongruent-congruent,Congruency sequence effect (the tendency for congruency effects to be smaller following incongruent compared to congruent trials),"Congruent (i.e., what constructs are engaged when the word and ink are the same color)",Post-error slowing,Do you have any comments on the measures and constructs for this task?,"[
+    ""Attention"",
+    ""Goal Selection"",
+    ""Updating, Representation, and Maintenance"",
+    ""Response Selection"",
+    ""Inhibition/Suppression"",
+    ""Performance Monitoring"",
+    ""Active Maintenance"",
+    ""Flexible Updating"",
+    ""Limited Capacity"",
+    ""Interference Control"",
+    ""None of the constructs"",
+    ""The construct or constructs that I believe best map onto this measure are not listed above"",
+    ""I do not understand the measure or I'm not familiar with this measure""
+]"
+Stop-signal,n/a,"In the stop-signal task, subjects make a speeded choice response to an imperative go stimulus (e.g., respond with the right or left arrow key to an arrow pointing right or left, respectively), unless they receive a secondary stimulus (e.g., a star presented around the arrow), the stop signal, which tells the subject to try to withhold their response on that trial. One common measure in the stop-signal task is stop-signal reaction time (SSRT), which quantifies the amount of time it takes subjects to stop their response.",Stop-signal reaction time,"Go (i.e., what constructs are engaged on trials in which a stop signal does not occur)",Post-stop-signal slowing (the increase in reaction time on trials immediately following a stop signal),Post-error slowing,Do you have any comments on the measures and constructs for this task?,"[
+    ""Attention"",
+    ""Goal Selection"",
+    ""Updating, Representation, and Maintenance"",
+    ""Response Selection"",
+    ""Inhibition/Suppression"",
+    ""Performance Monitoring"",
+    ""Active Maintenance"",
+    ""Flexible Updating"",
+    ""Limited Capacity"",
+    ""Interference Control"",
+    ""None of the constructs"",
+    ""The construct or constructs that I believe best map onto this measure are not listed above"",
+    ""I do not understand the measure or I'm not familiar with this measure""
+]"
+Go/nogo,n/a,"In the go/nogo task, subjects respond with a specific keypress if they see one stimulus (e.g., a circle) but make no response if they see another stimulus (e.g., a square). Go stimuli are generally presented much more frequently than no-go stimuli.",No-go trial performance,Go trial performance,Post-error slowing,n/a,Do you have any comments on the measures and constructs for this task?,"[
+    ""Attention"",
+    ""Goal Selection"",
+    ""Updating, Representation, and Maintenance"",
+    ""Response Selection"",
+    ""Inhibition/Suppression"",
+    ""Performance Monitoring"",
+    ""Active Maintenance"",
+    ""Flexible Updating"",
+    ""Limited Capacity"",
+    ""Interference Control"",
+    ""None of the constructs"",
+    ""The construct or constructs that I believe best map onto this measure are not listed above"",
+    ""I do not understand the measure or I'm not familiar with this measure""
+]"
+N-back,n/a,"The N-back task presents a series of stimuli in sequence. The subject makes a target response if the current stimulus matches the stimulus presented N trials ago, and makes a non-target response if the current stimulus does not match the stimulus presented N trials ago. N can be titrated up or down to increase or decrease difficulty, respectively.","High load (e.g., 2-back) - Low load (1-back)",1-back,Post-error slowing,n/a,Do you have any comments on the measures and constructs for this task?,"[
+    ""Attention"",
+    ""Goal Selection"",
+    ""Updating, Representation, and Maintenance"",
+    ""Response Selection"",
+    ""Inhibition/Suppression"",
+    ""Performance Monitoring"",
+    ""Active Maintenance"",
+    ""Flexible Updating"",
+    ""Limited Capacity"",
+    ""Interference Control"",
+    ""None of the constructs"",
+    ""The construct or constructs that I believe best map onto this measure are not listed above"",
+    ""I do not understand the measure or I'm not familiar with this measure""
+]"
